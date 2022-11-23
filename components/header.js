@@ -61,6 +61,8 @@ const styles = `
     background-color: var(--white);
     font: var(--fa-font-solid);
     color: var(--gray-03);
+    width: 32px;
+    text-align: center;
     border: none;
     font-size: 24px;
     height: 100%;

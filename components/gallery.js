@@ -10,13 +10,18 @@ const styles = `
     display: flex;
     margin: 0;
     flex-direction: row;
-    gap: 16px;
+    gap: 8px;
     justify-content: center;
     padding: 64px 0;
     color: var(--gray-02);
   }
 
-  menu > svg.active{
+  menu > svg {
+    padding: 8px;
+  }
+
+
+  menu > svg.active {
     color: var(--primary-color);
   }
 
