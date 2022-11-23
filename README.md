@@ -1,8 +1,12 @@
 # Prueba tecnica
 
-prueba tecnica implementado una maqueta usando valilla javascript.
+prueba tecnica, implementacion de una maqueta usando Javascript, CSS y HTML.
 
-NOTE: Use web components que es una tecnologia poco usada pero al final del dia es vanilla JS.
+NOTE: se uso web components una tecnologia poco usada pero vanilla JS.
 
-# author
+## Resultados
+[tita-test](https://afbayonac.github.io/tita-test)
+
+## author
+
 @afbayonac
