@@ -1,0 +1,12 @@
+:root {
+  --questrial: Questrial, sans-serif;
+  --montserrat: Montserrat, sans-serif;
+  font-family: Montserrat, sans-serif;
+  --primary-color: #fc758c;
+  --secundary-color: #ff5672;
+  --white: #fff;
+  --gray-01: #f6f6f6;
+  --gray-02: #dbe3e8;
+  --gray-03: #707070;
+  scroll-behavior: smooth;
+}
